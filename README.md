@@ -1,5 +1,5 @@
 
-#  Smart City Dashboard
+#  Metro Matrix - Smart City Dashboard
 
 ### Real-time Weather • Air Quality Index • Traffic Density
 
